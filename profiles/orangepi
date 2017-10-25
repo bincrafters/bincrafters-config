@@ -1,0 +1,11 @@
+[settings]
+arch=armv7
+build_type=Release
+compiler=gcc
+compiler.libcxx=libstdc++
+compiler.version=4.9
+os=Linux
+
+[env]
+CC=arm-opi-linux-gnueabihf-gcc
+CXX=arm-opi-linux-gnueabihf-g++
