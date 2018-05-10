@@ -4,7 +4,7 @@ A general Conan configuration for any Bincrafter project.
 
 ### Introduction
 
-[Conan config](http://conanio.readthedocs.io/en/latest/reference/commands/config.html) was
+[Conan config](https://docs.conan.io/en/latest/reference/commands/consumer/config.html) was
 released on Conan 0.27.0 providing the option to distribute and share remotes, profiles, settings.
 
 [[Webinar] Developing C/C++ packages with Conan: new features](https://youtu.be/Aey_O86mSfg)
