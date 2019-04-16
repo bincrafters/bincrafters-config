@@ -5,5 +5,5 @@ compiler=clang
 compiler.libcxx=libc++
 compiler.version=8.0
 os=Android
-os.api_level=21
+os.api_level=16
 os_build=Linux
