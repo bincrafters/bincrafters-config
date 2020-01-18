@@ -1,3 +1,2 @@
-bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
 conan-center https://conan.bintray.com True
-conan-community https://api.bintray.com/conan/conan-community/conan True
+bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
