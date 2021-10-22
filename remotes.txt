@@ -1,2 +1,2 @@
-conan-center https://conan.bintray.com True
-bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
+conan-center https://center.conan.io True
+bincrafters https://bincrafters.jfrog.io/artifactory/api/conan/public-conan True
